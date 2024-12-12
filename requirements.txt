@@ -1,0 +1,5 @@
+requests
+openai
+notion-client
+pytest
+flake8

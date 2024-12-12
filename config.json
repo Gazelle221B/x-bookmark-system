@@ -1,0 +1,12 @@
+{
+  \
+log_level\: \INFO\,
+  \retry_count\: 3,
+  \wait_seconds\: 5,
+  \batch_size\: 10,
+  \notion_database_id\: \\,
+  \selectors\: {
+    \tweet_article\: \article[data-testid=tweet]\,
+    \tweet_text\: \div[data-testid=tweetText]\
+  }
+}
